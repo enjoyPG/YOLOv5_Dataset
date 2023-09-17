@@ -2,4 +2,4 @@ train: /content/YOLOv5_Dataset/YOLOv5_nidaleeDataset/train/images
 val: /content/YOLOv5_Dataset/YOLOv5_nidaleeDataset/valid/images
 
 nc: 4
-names: ['Nidalee', 'Enemy', 'Javelin', 'Partner']
+names: ['Nidalee', 'Javelin', 'Enemy', 'Partner']
