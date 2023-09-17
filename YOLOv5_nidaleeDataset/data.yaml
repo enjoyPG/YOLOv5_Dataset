@@ -1,5 +1,5 @@
-train: /content/YOLO-Datasets/mask_wearing_dataset/train/images
-val: /content/YOLO-Datasets/mask_wearing_dataset/valid/images
+train: /content/YOLOv5_Dataset/YOLOv5_nidaleeDataset/train/images
+val: /content/YOLOv5_Dataset/YOLOv5_nidaleeDataset/valid/images
 
 nc: 4
 names: ['Nidalee', 'Enemy', 'Javelin', 'Partner']
